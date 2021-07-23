@@ -3,7 +3,7 @@
 
 Information about the cats is displayed from the API.
 
-#####Information displayed are 
+##### Information displayed are 
 ###### Name of the cats
 ###### Image of the cats
 ###### Origin of the cats
